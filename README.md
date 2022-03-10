@@ -1,5 +1,5 @@
 # Просмотр сайта с использованием библиотеки
-> `https://lovkachdev.github.io/revivalcss/page/`
+> https://lovkachdev.github.io/revivalcss/page/
 
 # Как Импортировать в проект
 
