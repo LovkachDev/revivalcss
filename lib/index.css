@@ -13,11 +13,6 @@
     opacity: 0;
     transform: translateX(200px);
 }
-[data-scroll="down"]
-{
-    opacity: 0;
-    transform: translateY(-200px);
-}
 ._up
 {
     opacity: 1;
@@ -31,12 +26,6 @@
     transform: translateX(0px);
 }
 ._right
-{
-    opacity: 1;
-    transition:  .8s all ease-in-out;
-    transform: translateX(0px);
-}
-._down
 {
     opacity: 1;
     transition:  .8s all ease-in-out;
